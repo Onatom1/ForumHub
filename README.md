@@ -61,7 +61,8 @@ CREATE TABLE topico (
 );
 ```
 **Tabela de Usuários**
-Tabela de usuarios já criada no migration V1__create-table-usuarios.sql com os seguintes dados:
+
+Tabela de usuarios já criada no migration/V1__create-table-usuarios.sql com os seguintes dados:
 
 ```CREATE TABLE usuario (
     id BIGINT NOT NULL AUTO_INCREMENT,
