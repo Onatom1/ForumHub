@@ -64,11 +64,14 @@ CREATE TABLE topico (
 
 Tabela de usuarios já criada no migration/V1__create-table-usuarios.sql com os seguintes dados:
 
-```CREATE TABLE usuario (
-    id BIGINT NOT NULL AUTO_INCREMENT,
-    login VARCHAR(100) NOT NULL,
-    senha VARCHAR(255) NOT NULL,
-    PRIMARY KEY (id)
+
+```create table usuarios(
+
+    id bigint not null auto_increment,
+    login varchar(100) not null,
+    senha varchar(255) not null,
+
+    primary key(id)
 );
 ```
 
