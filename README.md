@@ -1,7 +1,7 @@
 # ForumHub
 ## Descrição
 
-ForumHub é uma API de fórum construída com Spring Boot que permite autenticação de usuários, criação, atualização, listagem e exclusão de tópicos. A API utiliza um banco de dados MySQL para armazenamento de dados.
+ForumHub é uma API de fórum (desafio proposto pelo curso de **spring boot** da alura) que permite autenticação de usuários, criação, atualização, listagem e exclusão de tópicos. A API utiliza um banco de dados MySQL para armazenamento de dados.
 
 ## Funcionalidades
 
