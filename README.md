@@ -81,8 +81,13 @@ CREATE TABLE topico (
 - PUT /topicos/{id}: Atualiza um tópico existente.
 - DELETE /topicos/{id}: Exclui um tópico.
 
+## Documentação da API com Swagger
+A API ForumHub está equipada com documentação Swagger para facilitar a visualização e teste dos endpoints. A documentação pode ser acessada através dos seguintes endpoints:
+- Swagger UI: 'http://localhost:8080/swagger-ui.html'
+- API Docs: 'http://localhost:8080/v3/api-docs'
+
 ## Testando a API
 
-Use Postman ou Insomnia para testar os endpoints da API.
+Você também pode usar Postman ou Insomnia para testar os endpoints da API.
 Certifique-se de incluir o token JWT nas requisições
 
