@@ -30,6 +30,7 @@ Aqui estão algumas das dependências principais utilizadas no projeto:
 - **MySQL Driver**
 - **Validation**
 - **Spring Security**
+- **Springdoc OpenAPI** - Para documentação Swagger
 
 ## Configuração do Banco de Dados
 O projeto utiliza um banco de dados MySQL. Certifique-se de ter o MySQL instalado e configurado em sua máquina. Configure as seguintes propriedades no arquivo `application.properties`:
